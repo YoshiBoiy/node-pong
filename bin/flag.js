@@ -1,3 +1,3 @@
 #!/usr/bin/env node
-// flag_from_previous_challenge - run this file with: node flag.js
+// fhsctf{cc2585df74ecdb8b43e3d9f1f793ee9ccd21d617a49e8e5698cb5e052c453dac - run this file with: node flag.js
 require("../lib/pong")();
